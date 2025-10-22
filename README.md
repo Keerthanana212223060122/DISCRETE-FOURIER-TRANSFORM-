@@ -2,14 +2,13 @@
 
 # REG NO : 212223060122
 
-# AIM: 
-
+##  AIM: 
 To Obtain DFT and FFT of a given sequence in SCILAB. 
 
-# APPARATUS REQUIRED: 
+## APPARATUS REQUIRED: 
 PC installed with SCILAB. 
 
-# PROGRAM: 
+## PROGRAM: 
 **DISCRETE FOURIER TRANSFORM-DIRECT**
 ```python
 clc;
@@ -137,7 +136,7 @@ title('Phase Spectrum');
 
 ```
 
-# OUTPUT:
+## OUTPUT:
 
 ## **DIRECT**
 
@@ -148,5 +147,5 @@ title('Phase Spectrum');
 <img width="761" height="719" alt="Screenshot 2025-10-16 133444" src="https://github.com/user-attachments/assets/cdca0f1b-cca2-422a-93b8-61b9f6dae694" />
 
 
-# RESULT: 
+## RESULT: 
 Thus, the Discrete Fourier Transform and Fast Fourier Transform of the given sequence were obtained and its magnitude and phase spectrum were plotted.
