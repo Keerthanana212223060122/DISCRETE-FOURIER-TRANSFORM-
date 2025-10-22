@@ -11,7 +11,7 @@ PC installed with SCILAB.
 
 # PROGRAM: 
 **DISCRETE FOURIER TRANSFORM-DIRECT**
-```
+```python
 clc;
 clear;
 
@@ -74,7 +74,7 @@ title('Phase Spectrum');
 
 ```
 **DFT USING FFT**
-```
+```python
 clc;
 clear;
 
